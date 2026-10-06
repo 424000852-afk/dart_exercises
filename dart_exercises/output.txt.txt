@@ -1,0 +1,8 @@
+===== RECEIPT ====================
+Customer : Vhone Gabrille M. Sildo
+Cups     : 10
+Price    : $89.75
+Subtotal : $897.5
+TOTAL    : $807.75
+Points   : 16
+Big order? true
